@@ -101,7 +101,7 @@ def Main():
 def contact_form():
     st.header(":mailbox: Get In Touch With Me!")
     contact_form = """
-    <form action="https://formsubmit.co/manojmahato08779@gmail.com" method="POST">
+    <form action="https://formsubmit.co/vishaldas571725@gmail.com" method="POST">
          <input type="hidden" name="_template" value="table">
          <input type="text" name="name" placeholder="Your name" required>
          <input type="email" name="email" placeholder="Your email" required>
@@ -140,7 +140,7 @@ def home_scr():
         )
         st.markdown('<p class="footer">Subscribe for ❤️ Latest Updates</p>', unsafe_allow_html=True)
         News_Latter = """
-        <form action="https://formsubmit.co/manojmahato08779@gmail.com" method="POST">
+        <form action="https://formsubmit.co/vishal@gmail.com" method="POST">
              <input type="hidden" name="_template" value="table">
              <input type="email" name="email" placeholder="Your email" required>
              <button type="submit">Subscribe</button>
