@@ -168,7 +168,8 @@ def home_scr():
 
     with col1:
         image = Image.open('Images/Visualdata-bro.png')
-        st.image(image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+       st.image(image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+
     with col2:
         
         st.header("Project Description")
