@@ -166,10 +166,9 @@ def home_scr():
     
     col1, col2 = st.columns([2, 3])
 
-       with col1:
+    with col1:
         image = Image.open('Images/Visualdata-bro.png')
-       st.image(image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
-
+        st.image(image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
     with col2:
         
         st.header("Project Description")
@@ -262,7 +261,7 @@ if selected == "About":
 
     
 
-    If you have any questions or would like to learn more about our medical expenses prediction project, please feel free to reach out to us at [Vishal](mailto:vishaldas571725@gmail.com).
+    If you have any questions or would like to learn more about our medical expenses prediction project, please feel free to reach out to us at [vishal](mailto:vishaldas571725@gmail.com).
     """)
     
 if selected == "Contact":
