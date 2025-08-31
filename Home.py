@@ -261,7 +261,7 @@ if selected == "About":
 
     
 
-    If you have any questions or would like to learn more about our medical expenses prediction project, please feel free to reach out to us at [Vishaldas.com](mailto:Vishaldas571725@gmail.com).
+    If you have any questions or would like to learn more about our medical expenses prediction project, please feel free to reach out to us at [Vishal](mailto:vishaldas571725@gmail.com).
     """)
     
 if selected == "Contact":
